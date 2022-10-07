@@ -1,4 +1,4 @@
-# This is the official implementation of ["A Geometric Perspective on Variational Autoencoders" (NeurIPS 2022)](https://arxiv.org/abs/2209.07370)
+# This is the official implementation of ["A Geometric Perspective on Variational Autoencoders"](https://arxiv.org/abs/2209.07370) (NeurIPS 2022)
 
 This code uses a version of **python3.6**. 
 
