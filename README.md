@@ -1,4 +1,4 @@
-# This is the official implementation of "A Geometric Perspective on Variational Autoencoders" (NeurIPS 2022)
+# This is the official implementation of ["A Geometric Perspective on Variational Autoencoders" (NeurIPS 2022)](https://arxiv.org/abs/2209.07370)
 
 This code uses a version of **python3.6**. 
 
@@ -82,3 +82,14 @@ The provided code requires a file `OASIS.npz` to be located in `data_folders/oas
 
 The commandines to train a model, generate new data and compute the metrics are available in 
 `models_to_train.sh`.
+
+
+## Reference
+```bibtext
+@article{chadebec2022geometric,
+  title={A Geometric Perspective on Variational Autoencoders},
+  author={Chadebec, Cl{\'e}ment and Allassonni{\`e}re, St{\'e}phanie},
+  journal={arXiv preprint arXiv:2209.07370},
+  year={2022}
+}
+```
