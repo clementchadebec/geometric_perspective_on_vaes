@@ -20,8 +20,8 @@ def main(args):
         latent_dim = 16
         beta = .01
         patience = 5
-        n_epochs = 100
-        architecture = 'convnet'
+        n_epochs = 10
+        architecture = 'mlp'
         lr = 1e-3
 
         mnist_digits = np.load(args.path_to_train)

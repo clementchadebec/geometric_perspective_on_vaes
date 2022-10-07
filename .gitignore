@@ -1,0 +1,4 @@
+generated_data/*
+*/__pycache__/**
+*.pyc
+trained_vae_models/*
