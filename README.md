@@ -85,7 +85,8 @@ The commandines to train a model, generate new data and compute the metrics are 
 
 
 ## Reference
-```bibtext
+
+```bibtex
 @article{chadebec2022geometric,
   title={A Geometric Perspective on Variational Autoencoders},
   author={Chadebec, Cl{\'e}ment and Allassonni{\`e}re, St{\'e}phanie},
