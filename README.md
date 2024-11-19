@@ -88,9 +88,11 @@ The commandines to train a model, generate new data and compute the metrics are 
 
 ```bibtex
 @article{chadebec2022geometric,
-  title={A Geometric Perspective on Variational Autoencoders},
+  title={A geometric perspective on variational autoencoders},
   author={Chadebec, Cl{\'e}ment and Allassonni{\`e}re, St{\'e}phanie},
-  journal={arXiv preprint arXiv:2209.07370},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={19618--19630},
   year={2022}
 }
 ```
